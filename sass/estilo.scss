@@ -14,11 +14,11 @@
 
 
 tbody{
-  color: $azul;
+  color: $negro;
   background-repeat: repeat-x;
   
   .colorEncabezadoTabla {
-    color: #96120b;
+    color: $blanco;
 }
 }
 td {
@@ -61,17 +61,14 @@ h1{
      }
      }
 
-.tabla{
-  color: $negro;
-
-}     
+    
 
 .tabla__color{
   color: white;
 }
 
 .color__tabla--modificado{
-  color: $azul;
+  color: $negro;
 }
 .menu{
   @include halsey
@@ -207,6 +204,9 @@ body{
 }
 .card-body{
         background-color: brown;
+}
+.card-text{
+        color: $blanco;
 }
 
 .container-fluid{

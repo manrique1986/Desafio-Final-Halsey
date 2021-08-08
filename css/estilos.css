@@ -66,10 +66,10 @@ h3 {
   font-size: 25px; }
 
 tbody {
-  color: blue;
+  color: black;
   background-repeat: repeat-x; }
   tbody .colorEncabezadoTabla {
-    color: #96120b; }
+    color: #fff; }
 
 td {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; }
@@ -106,14 +106,11 @@ h1 {
   100% {
     opacity: 0; } }
 
-.tabla {
-  color: black; }
-
 .tabla__color {
   color: white; }
 
 .color__tabla--modificado {
-  color: blue; }
+  color: black; }
 
 .menu {
   display: flex;
@@ -236,6 +233,9 @@ body {
 
 .card-body {
   background-color: brown; }
+
+.card-text {
+  color: #fff; }
 
 .container-fluid {
   background-color: brown; }
