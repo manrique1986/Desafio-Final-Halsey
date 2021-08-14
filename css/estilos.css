@@ -341,3 +341,18 @@ body {
 
 .video {
   width: 100%; }
+
+.Nosotros {
+  margin: 3px; }
+
+.Nosotrosp {
+  display: table-cell;
+  padding: 10px; }
+
+.parrafo {
+  background-color: brown;
+  color: #fff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+
+.imgNosotros {
+  width: 25px; }
